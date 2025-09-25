@@ -26,3 +26,9 @@ Through this project, I demonstrate proficiency in:
 **Tools Used :**
 - PostgreSQL
 - Dataset: Music Store (relational schema with 11 tables)
+
+**Uploaded files :**
+- A PDF file of all queries
+- A .sql file containing all queries
+- Schema diagram
+  
